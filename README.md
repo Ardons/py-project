@@ -1,5 +1,13 @@
-# py-project
+# GAME PROJECT
 proyecto entornos virtuales de Python
 
+Para correr el juego debes seguir las siguientes instrucciones en la terminal:
+
+
+
+```sh
+cd game
+python3 main.py
+```
 # Steps
 
